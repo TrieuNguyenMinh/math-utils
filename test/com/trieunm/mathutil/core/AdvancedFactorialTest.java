@@ -34,8 +34,7 @@ public class AdvancedFactorialTest {
                                 {3,6},
                                 {4,24},
                                 {5,120},
-                                {6,1720},
-                                {0,1}
+                                {6,720},
                                };
     }
     //chuan 2 bien de hung data tu mang, sau do thay vao ham test
